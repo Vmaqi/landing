@@ -1,0 +1,8 @@
+{
+  "name": "anubis_init",
+  "version": "1.0.0",
+  "description": "Main files",
+  "main": "init.js",
+  "author": "",
+  "license": "ISC"
+}
