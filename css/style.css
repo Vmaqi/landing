@@ -2890,9 +2890,20 @@ a.anubis_fn_videobutton:hover .fn__svg,
   width: 150px;
   object-fit: contain;
 }
+.footer p svg {
+  width: 120px !important;
+}
 .footer p a {
   color: #fff;
   text-decoration: none;
+  display: flex;
+  justify-items: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+  font-size: 14px;
+}
+.footer p a img {
+  width: 100px;
 }
 .footer p a:hover {
   color: var(--mc1);
